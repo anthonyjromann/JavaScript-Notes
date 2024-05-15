@@ -1,7 +1,7 @@
 ---
 title: Foundations
 created: '2024-05-14T20:20:10.270Z'
-modified: '2024-05-15T18:17:42.003Z'
+modified: '2024-05-15T19:28:39.633Z'
 ---
 
 # Foundations
@@ -112,6 +112,8 @@ modified: '2024-05-15T18:17:42.003Z'
   * The body is a concise yet clear description of what you did. 
   * There is a 72-character limit.
 * Commit every time there is a meaningful change in the code. 
+
+### Intro to CSS
 
 
 
